@@ -1,1 +1,2 @@
-class-systems-venv
+*venv*
+__pycache__/
